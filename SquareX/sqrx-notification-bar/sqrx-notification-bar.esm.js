@@ -1,0 +1,4 @@
+/*!
+ * Copyright (c) SquareX
+ */
+import{p as e,b as o}from"./p-b5309059.js";export{s as setNonce}from"./p-b5309059.js";import{g as t}from"./p-3c57e9bf.js";(()=>{const s=import.meta.url,o={};return""!==s&&(o.resourcesUrl=new URL(".",s).href),e(o)})().then((async e=>(await t(),o([["p-5d8bd9df",[[1,"sqrx-notification-bar",{isDarkMode:[516,"is-dark-mode"],elemtitle:[513],done:[516],messages:[32]},[[0,"closeOneEvent","closeOneEventListener"],[0,"addOneEvent","addOneEventListener"]]],[1,"sqrx-notification-bar-message",{isDarkMode:[516,"is-dark-mode"],messageId:[513,"message-id"],message:[1],type:[1],showCloseButton:[4,"show-close-button"]}]]]],e))));
